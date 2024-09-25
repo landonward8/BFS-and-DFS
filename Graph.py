@@ -2,7 +2,6 @@
 '''
 Demonstration of some simple graph algorithms.
     
-@author: Jingsai Liang
 '''
 
 import sys
